@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--          Static fields        -->
+    <string name="app_name">KaSh</string>
+    <string name="getToken">getToken</string>
+    <string name="get_order_list">GetOrderList</string>
+    <string name="get_trades_list">GetTradesList</string>
+    <string name="get_news">GetNews</string>
+    <string name="get_candle">getCandle</string>
+    <string name="get_global_stat">GetGlobalStat</string>
+    <string name="get_profile">getProfile</string>
+    <string name="english">English</string>
+    <string name="persian">فارسی</string>
+    <string name="usd">USD</string>
+
+    <!--          Change this fields     -->
+
+    <string name="news">اخبار</string>
+    <string name="wallet">کیف پول</string>
+    <string name="home">خانه</string>
+    <string name="trade">معامله</string>
+    <string name="tools">ابزار</string>
+
+    <string name="security">امنیت</string>
+    <string name="profile">حساب</string>
+    <string name="communicate">ارتباط</string>
+    <string name="share">تبلیغ</string>
+    <string name="rate_review">امتیازدهی</string>
+    <string name="about">درباره ما</string>
+    <string name="sign_out">خروج</string>
+    <string name="authentication_header">اثرانگشت</string>
+    <string name="authentication_footer">لطفا انگشت خود را بر روی سنسور قرار دهید</string>
+    <string name="authentication_backup_pin">کمک میخواهید؟ از پین کمکی استفاده کنید!</string>
+    <string name="no_finger_print">حداقل یک اثر انگشت در گوشی ثبت کنید</string>
+
+    <string name="usernameReg">نام کاربری</string>
+    <string name="emailReg">ایمیل</string>
+    <string name="passwordReg">رمز عبور</string>
+    <string name="sign_upReg">ثبت نام</string>
+    <string name="sign_inLog">ورود</string>
+    <string name="sign_in_redirect">قبلا عضو شده اید؟ وارد شوید!</string>
+    <string name="forgot_password">فراموشی رمز عبور</string>
+    <string name="sign_up_redirect">عضو نشده اید؟ ثبت نام کنید!</string>
+
+    <string name="app_share_text_1">
+        کش
+        \n
+        تاریخ :
+        %s
+        \n
+        از آخرین قیمت ها و اخبار حوزه ی رمزارزها مطلع شوید و از ابزار تحلیلی متفاوت استفاده کنید.
+        \n
+        دانلود نسخه اندروید :
+        \n%s</string>
+
+    <string name="app_share_text_2">
+        کش
+        \n
+        از آخرین قیمت ها و اخبار حوزه ی رمزارزها مطلع شوید و از ابزار تحلیلی متفاوت استفاده کنید.
+        \n
+        دانلود نسخه اندروید :
+        \n%s</string>
+
+    <string name="app_download_url">https://gitlab.com/Omid-SH/mobilefinalproject.git</string>
+    <string name="about_string">
+        آخرین اخبار و قیمت های حوزه ی رمزارز و امکان خرید و فروش در بازار نوبیتکس.
+    </string>
+    <string name="powered_by">قدرت گرفته توسط : امیرحسین، امید</string>
+
+
+    <string name="pin_welcome">خوش آمدید</string>
+    <string name="wrong_pin">رمز عبور صحیح نمی باشد</string>
+
+    <string name="security_header">قفل امنیتی برنامه را انتخاب کنید</string>
+    <string name="set_pin_header">رمز خود را انتخاب کنید</string>
+    <string name="set_pin_header_confirm">رمز را تکرار کنید</string>
+    <string name="set_pin_reach_max_length">حداکثر طول مجاز رمز</string>
+
+    <string name="register_not_available">تا اطلاع ثانوی امکان ثبت نام از طریق برنامه وجود ندارد</string>
+    <string name="password_recovery_not_available">تا اطلاع ثانوی امکان بازیابی رمز عبور از طریق برنامه وجود ندارد</string>
+    <string name="sign_in">ورود</string>
+    <string name="language">زبان</string>
+    <string name="get_nobitex_market_detail">دریافت قیمت های بازار نوبیتکس</string>
+    <string name="best_sell">:بهترین فروش</string>
+    <string name="best_buy">بهترین خرید:</string>
+    <string name="day_high">:حداکثر قیمت روز</string>
+    <string name="day_low">حداقل قیمت روز:</string>
+    <string name="transaction_volume">:حجم معامله</string>
+    <string name="_24_hour_change">درصد تغییر ۲۴ ساعت گذشته:</string>
+    <string name="price">قیمت</string>
+    <string name="amount">حجم</string>
+    <string name="buy">خرید</string>
+    <string name="price_sell">قیمت (فروش)</string>
+    <string name="amount_sell">حجم (فروش)</string>
+    <string name="price_buy">قیمت (خرید)</string>
+    <string name="amount_buy">حجم (خرید)</string>
+    <string name="sell">فروش</string>
+    <string name="info">اطلاعات</string>
+    <string name="accounts">حساب ها</string>
+    <string name="contact">اطلاعات کاربر</string>
+    <string name="bank_cards">کارت های بانکی</string>
+    <string name="add_new_bank_card">افزودن کارت بانکی</string>
+    <string name="bank_accounts">حساب های بانکی</string>
+    <string name="add_new_bank_account">افزودن حساب بانکی</string>
+    <string name="security_none">هیچ</string>
+    <string name="security_pin">رمز</string>
+    <string name="security_fingerprint">اثرانگشت</string>
+    <string name="year">سال</string>
+    <string name="_6mon">۶ماه</string>
+    <string name="_3mon">۳ماه</string>
+    <string name="mon">ماه</string>
+    <string name="week">هفته</string>
+    <string name="day">روز</string>
+    <string name="symbol">نماد</string>
+    <string name="total_count">مجموع ارزش</string>
+    <string name="total_traded_volume">مجموع حجم معامله</string>
+    <string name="go_to_candle_chart">به نمودار کندل مراجعه کنید</string>
+    <string name="guest">میمهان</string>
+    <string name="app_wil_be_published">برنامه به زودی در بازار قرار خواهد گرفت</string>
+    <string name="back_again_to_exit">برای خروج دوباره کلیک کنید</string>
+    <string name="crypto_price_title">قیمت رمزارز</string>
+    <string name="nobitex_market_title">بازار نوبیتکس</string>
+    <string name="wallet_title">کیف پول</string>
+    <string name="buy_title">خرید</string>
+    <string name="sell_title">فروش</string>
+    <string name="orders_title">سفارشات</string>
+    <string name="chart_title">نمودار</string>
+    <string name="price_alert_title">هشدار قیمت</string>
+    <string name="trade_bot_title">بات معامله</string>
+    <string name="news_title">اخبار</string>
+    <string name="videos_title">فیلم ها</string>
+    <string name="in_safe_zone">در منطقه امن</string>
+    <string name="reached_upper_limit">قیمت کران بالا را رد کرد</string>
+    <string name="reached_down_limit">قیمت کران پاین را رد کرد</string>
+    <string name="invalid_state">وضعیت نامعتبر</string>
+    <string name="no_internet">قطعی اینترنت!</string>
+    <string name="finger_print_not_detected">حسگر اثرانگشت کوشی شناسایی نشد.</string>
+    <string name="fingerprint_permission_not_granted">اجازه استفاده از اثرانگشت به برنامه داده نشده است.</string>
+    <string name="add_lock_to_your_phone">یک قفل به گوشی خود در بخش تنظیمات اضافه کنید</string>
+    <string name="add_fingerprint_to_your_phone">حداقل یک اثرانگشت در تنطیمات گوشی خود اضافه کنید</string>
+    <string name="low_api_level">ورژن گوشی برای استفاده از این ویژگی پایین است</string>
+    <string name="no_fingerprint_scanner">حسگر اثرانگشت در گوشی شناسایی نشد</string>
+    <string name="connecting_to_service_try_later">در حال ارتباط با سرور، لطفا لحضاتی بعد دوباره تلاش کنید</string>
+    <string name="invalid_input_values">ورودی نامعتبر</string>
+    <string name="sign_in_first">ابتدا وارد شوید</string>
+    <string name="canceled">لغو شد</string>
+    <string name="request_has_been_sent">درخواست فرستاده شد</string>
+    <string name="can_not_get_market_order">امکان گرفتن درخواست های بازار وجود ندارد</string>
+    <string name="language_header">زبان برنامه را انتخاب کنید</string>
+    <string name="cards">کارت ها</string>
+    <string name="price_alarm_header">تنظیم هشدار قیمت</string>
+    <string name="remove_all_alarms">لغو تمام هشدارها</string>
+    <string name="choose">Choose</string>
+    <string name="upper_limit">حد بالا</string>
+    <string name="down_limit">حد پایین</string>
+    <string name="set">تنظیم</string>
+    <string name="set_your_account_properties">اطلاعات حساب خود را وارد کنید</string>
+    <string name="bank_name_hint">نام بانک</string>
+    <string name="bank_number_hint">شماره حساب</string>
+    <string name="bank_shaba_hint">شماره شبا</string>
+    <string name="cancel">لغو</string>
+    <string name="add">افزودن</string>
+    <string name="dialog_add_card_header">اطلاعات کارت خود را وارد کنید</string>
+    <string name="sent_order_successfully">درخواست با موفقیت ارسال شد</string>
+    <string name="continue_as_gust">ورود به عنوان میهمان...</string>
+    <string name="done">انجام شد</string>
+    <string name="error">خظا</string>
+    <string name="bank_account_added">حساب بانکی اضافه شد</string>
+    <string name="add_bank_account_error">خطا در افزودن حساب بانکی رخ داد!</string>
+    <string name="bank_card_add">کارت بانکی اضافه شد</string>
+    <string name="add_bank_card_error">خظا در افزودن کارت بانکی رخ داد!</string>
+    <string name="wrong_username_or_password">نام کاربری یا رمز عبور نامعتبر</string>
+    <string name="unknown_error">ارور نامشخص!</string>
+
+</resources>

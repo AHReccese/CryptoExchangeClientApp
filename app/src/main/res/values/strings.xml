@@ -1,0 +1,161 @@
+<resources>
+
+    <!--          Static fields        -->
+    <string name="app_name">KaSh</string>
+    <string name="getToken">getToken</string>
+    <string name="get_order_list">GetOrderList</string>
+    <string name="get_trades_list">GetTradesList</string>
+    <string name="get_news">GetNews</string>
+    <string name="get_candle">getCandle</string>
+    <string name="get_global_stat">GetGlobalStat</string>
+    <string name="get_profile">getProfile</string>
+    <string name="english">English</string>
+    <string name="persian">فارسی</string>
+    <string name="usd">USD</string>
+
+    <!--          Change this fields     -->
+
+    <string name="news">news</string>
+    <string name="wallet">wallet</string>
+    <string name="home">home</string>
+    <string name="trade">trade</string>
+    <string name="tools">tools</string>
+
+    <string name="security">Security</string>
+    <string name="profile">Profile</string>
+    <string name="communicate">Communicate</string>
+    <string name="share">Share</string>
+    <string name="rate_review">Rate/Review</string>
+    <string name="about">About</string>
+    <string name="sign_out">Sign out</string>
+    <string name="authentication_header">Fingerprint</string>
+    <string name="authentication_footer">Please put your finger on the sensor</string>
+    <string name="authentication_backup_pin">Need Help? Try backup pin here!</string>
+    <string name="no_finger_print">At least add one fingerprint</string>
+
+    <string name="usernameReg">Username</string>
+    <string name="emailReg">Email</string>
+    <string name="passwordReg">Password</string>
+    <string name="sign_upReg">Sign up</string>
+    <string name="sign_inLog">Sign in</string>
+    <string name="sign_in_redirect">Already a member? Sign in!</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="sign_up_redirect">Don\'t have an account? Register here!</string>
+
+    <string name="app_share_text_1">KaSh\nDate : %s\nFind the latest prices and news about different
+        crypto currencies and lots of interesting tools\nDownload:\n%s</string>
+
+    <string name="app_share_text_2">KaSh\n Find the latest prices and news about different
+        crypto currencies and lots of interesting tools\nDownload:\n%s</string>
+
+    <string name="app_download_url">https://gitlab.com/Omid-SH/mobilefinalproject.git</string>
+    <string name="about_string">The latest prices and news about different
+        crypto currencies and lots of interesting tools</string>
+    <string name="powered_by">POWERED BY : Amirhosien, Omid</string>
+
+
+    <string name="pin_welcome">Welcome</string>
+    <string name="wrong_pin">Wrong Pin</string>
+
+    <string name="security_header">Select the app security lock</string>
+    <string name="set_pin_header">Set a PIN code</string>
+    <string name="set_pin_header_confirm">Repeat your PIN</string>
+    <string name="set_pin_reach_max_length">Reached maximum PIN length</string>
+
+    <string name="register_not_available">Registration is not available throw API yet</string>
+    <string name="password_recovery_not_available">Password recovery is not available throw API yet</string>
+    <string name="sign_in">Sign in</string>
+    <string name="language">Language</string>
+    <string name="get_nobitex_market_detail">GET NOBITEX MARKET DETAIL</string>
+    <string name="best_sell">Best Sell:</string>
+    <string name="best_buy">:Best Buy</string>
+    <string name="day_high">Day High:</string>
+    <string name="day_low">:Day Low</string>
+    <string name="transaction_volume">Transaction volume:</string>
+    <string name="_24_hour_change">:24 Hour Change</string>
+    <string name="price">Price</string>
+    <string name="amount">Amount</string>
+    <string name="buy">BUY</string>
+    <string name="price_sell">Price (Sell)</string>
+    <string name="amount_sell">Amount (Sell)</string>
+    <string name="price_buy">Price (Buy)</string>
+    <string name="amount_buy">Amount (Buy)</string>
+    <string name="sell">Sell</string>
+    <string name="info">Info</string>
+    <string name="accounts">Accounts</string>
+    <string name="contact">Contact</string>
+    <string name="bank_cards">Bank Cards</string>
+    <string name="add_new_bank_card">Add new bank card</string>
+    <string name="bank_accounts">Bank Accounts</string>
+    <string name="add_new_bank_account">Add new bank account</string>
+    <string name="security_none">NONE</string>
+    <string name="security_pin">PIN</string>
+    <string name="security_fingerprint">FINGERPRINT</string>
+    <string name="year">Year</string>
+    <string name="_6mon">6Mon</string>
+    <string name="_3mon">3Mon</string>
+    <string name="mon">Mon</string>
+    <string name="week">Week</string>
+    <string name="day">Day</string>
+    <string name="symbol">Symbol</string>
+    <string name="total_count">TotalCount</string>
+    <string name="total_traded_volume">TotalTradedVolume</string>
+    <string name="go_to_candle_chart">"GoTo CandleChart"</string>
+    <string name="guest">Guest</string>
+    <string name="app_wil_be_published">App will be available soon on market</string>
+    <string name="back_again_to_exit">Please click BACK again to exit</string>
+    <string name="crypto_price_title">crypto price</string>
+    <string name="nobitex_market_title">nobitex market</string>
+    <string name="wallet_title">Wallet</string>
+    <string name="buy_title">Buy</string>
+    <string name="sell_title">Sell</string>
+    <string name="orders_title">Orders</string>
+    <string name="chart_title">chart</string>
+    <string name="price_alert_title">price alert</string>
+    <string name="trade_bot_title">trade bot</string>
+    <string name="news_title">news</string>
+    <string name="videos_title">videos</string>
+    <string name="in_safe_zone">In the Safe Zone</string>
+    <string name="reached_upper_limit">Coin has broke its UpperLimit</string>
+    <string name="reached_down_limit">Coin has broke its DownLimit</string>
+    <string name="invalid_state">Invalid State</string>
+    <string name="no_internet">NO INTERNET!</string>
+    <string name="finger_print_not_detected">Fingerprint Scanner not detected in Device</string>
+    <string name="fingerprint_permission_not_granted">Permission not granted to use Fingerprint Scanner</string>
+    <string name="add_lock_to_your_phone">Add Lock to your Phone in Settings</string>
+    <string name="add_fingerprint_to_your_phone">Add at least one Fingerprint to your Phone in Settings</string>
+    <string name="low_api_level">Low API Level for this Feature</string>
+    <string name="no_fingerprint_scanner">Fingerprint Scanner not detected in Device</string>
+    <string name="connecting_to_service_try_later">Connecting to service,please wait and try some moments later</string>
+    <string name="invalid_input_values">Invalid input Values</string>
+    <string name="sign_in_first">FIRST SIGN IN</string>
+    <string name="canceled">Canceled</string>
+    <string name="request_has_been_sent">Request has been sent</string>
+    <string name="can_not_get_market_order">Can not get market order</string>
+    <string name="language_header">Select app language</string>
+    <string name="cards">Cards</string>
+    <string name="price_alarm_header">SET PRICE ALARM</string>
+    <string name="remove_all_alarms">REMOVE ALL ALARMS</string>
+    <string name="choose">Choose</string>
+    <string name="upper_limit">UpperLimit</string>
+    <string name="down_limit">DownLimit</string>
+    <string name="set">SET</string>
+    <string name="set_your_account_properties">Set your account properties</string>
+    <string name="bank_name_hint">Bank name</string>
+    <string name="bank_number_hint">Bank number</string>
+    <string name="bank_shaba_hint">Bank shaba</string>
+    <string name="cancel">Cancel</string>
+    <string name="add">Add</string>
+    <string name="dialog_add_card_header">Set your card properties</string>
+    <string name="sent_order_successfully">Sent order successfully!</string>
+    <string name="continue_as_gust">Continue as gust...</string>
+    <string name="done">Done</string>
+    <string name="error">Error</string>
+    <string name="bank_account_added">Bank Account has been added</string>
+    <string name="add_bank_account_error">Add bank account Error!</string>
+    <string name="bank_card_add">Bank card has been added</string>
+    <string name="add_bank_card_error">Add bank card Error!</string>
+    <string name="wrong_username_or_password">WRONG USERNAME OR PASSWORD</string>
+    <string name="unknown_error">UNKNOWN ERROR!</string>
+
+</resources>
